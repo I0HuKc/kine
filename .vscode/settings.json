@@ -1,4 +1,1 @@
-{
-  "rust-analyzer.checkOnSave.allTargets": false,
-  "rust-analyzer.checkOnSave.extraArgs": ["--target", "thumbv7em-none-eabihf"]
-}
+
